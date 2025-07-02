@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gemini GUI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gemini AI Assistant</h1>
+
+        <div class="input-section">
+            <textarea id="textPrompt" placeholder="Ask Gemini anything..."></textarea>
+            <input type="file" id="imageUpload" accept="image/*">
+            <button id="submitBtn">Ask Gemini</button>
+        </div>
+
+        <div class="output-section">
+            <h2>Gemini's Response:</h2>
+            <div id="responseOutput"></div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
