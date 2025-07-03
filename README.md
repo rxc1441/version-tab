@@ -1,19 +1,14 @@
 # version-tab
 
-A research and novel deep learning repository focused on mathematical problem-h I'll solving, symbolic reasonying, math-based vectorization, and large language model (LLM) development.
+A research and novel deep learning repository focused on mathematical problem-h I'll solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
-Based on the original work of Saxton et. al, 2019. This project explores ESA/SA vectorizers, T5-based generation, and end-to-end model analysis, prototyping, and novel builds. Links to resources will be listed below.
+Based on the original work of Saxton et. al, 2019. This project explores ESA/SA vectorizers, T5-based model inference, and end-to-end model analysis, prototyping, exploratory deep learning methods, and novel builds. Links to resources will be listed below. The basemodel is an extension of version-sdk. A novel software development kit designed for data science-based workflows and other domains.
 
 Research Paper:[Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX)
 
 Mathematics Dataset: 
 - [Google DeepMind](https://github.com/google-deepmind/mathematics_dataset)
 - [Hugging Face](https://huggingface.co/datasets/deepmind/math_dataset)
-
-
-
-
-mmm
 
 ---
 
@@ -22,7 +17,7 @@ mmm
 ```
 version-tab/
 ├── docs/           # Static HTML reports, and plots
-├── models/         # basemodel and test run on larger models.
+├── models/         # basemodel and test run on other models.
 ├── notebooks/      # Jupyter notebooks for exploratory workflows
 ├── predictions/    # Saved prediction outputs
 ├── requirements.txt
