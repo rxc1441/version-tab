@@ -1,10 +1,19 @@
 # version-tab
 
-A research and novel deep learning repository focused on mathematical problem-solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
+A research and novel deep learning repository focused on mathematical problem-h I'll solving, symbolic reasonying, math-based vectorization, and large language model (LLM) development.
 
 Based on the original work of Saxton et. al, 2019. This project explores ESA/SA vectorizers, T5-based generation, and end-to-end model analysis, prototyping, and novel builds. Links to resources will be listed below.
 
 Research Paper:[Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX)
+
+Mathematics Dataset: 
+- [Google DeepMind](https://github.com/google-deepmind/mathematics_dataset)
+- [Hugging Face](https://huggingface.co/datasets/deepmind/math_dataset)
+
+
+
+
+mmm
 
 ---
 
