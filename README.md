@@ -1,8 +1,10 @@
 # version-tab
 
-A research and prototyping repository focused on mathematical problem-solving models, math-based vectorization, and large language model (LLM) development.
+A research and novel deep learning repository focused on mathematical problem-solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
-This project explores ESA/SA vectorizers, T5-based generation, and full end-to-end model analysis, prototyping, and novel builds.
+Based on the original work of Saxton et. al, 2019. This project explores ESA/SA vectorizers, T5-based generation, and end-to-end model analysis, prototyping, and novel builds. Links to resources will be listed below.
+
+Research Paper:[Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX)
 
 ---
 
@@ -19,8 +21,7 @@ version-tab/
 └── README.md
 ```
 
-> ⚠️ **Note:***
-> The `math/` dataset and `keras-hub/` modules are not included in the repository. You will need to download or prepare these directories locally.
+The `math/` dataset and `keras-hub/` modules are not included in the repository. You will need to download or prepare these directories locally.
 
 ---
 
