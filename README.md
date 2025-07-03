@@ -2,7 +2,7 @@
 
 A research and novel deep learning repository focused on mathematical problem-h I'll solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
-Based on the original work of Saxton et. al, 2019. This project explores ESA/SA vectorizers, T5-based model inference, and end-to-end model analysis, prototyping, exploratory deep learning methods, and novel builds. Links to resources will be listed below. The basemodel is an extension of version-sdk. A novel software development kit designed for data science-based workflows and other domains.
+Based on the original work of Saxton et. al, 2019, this project explores ESA/SA vectorizers, T5-based inference, end-to-end analysis, and novel deep learning research and development. It is an extension of version-sdk, a custom software development kit for data science-based workflows and other domains.
 
 Research Paper:[Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX)
 
