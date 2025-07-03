@@ -1,0 +1,11 @@
+question,true_answer,predicted
+Let i(y) = -6*y**3 - 10*y**2 - 12*y + 26. Let f(o) = -5*o**3 - 11*o**2 - 11*o + 27. Let p(u) = -5*f(u) + 4*i(u). What is the tens digit of p(-13)?,1,i(y) = -5*i(y) + 4*i(u). Solve: i(y) - 11*i(y) - 11*i i(y) +
+"Suppose j = 4*j - 3*t - 28239, 4*t = -5*j + 47083. What is the thousands digit of j?",9,j = - - - - - - - - - - - - - - - - - - - - - -
+Let y(v) = 6*v**2 - 11*v - 13. Let w be y(-7). Suppose -2*r + 180 = -w. What is the hundreds digit of r?,2,y(v) = -w. -w - -w - -w - -w - -w -w -w -w -w -w
+"Let f(n) = -1 + 1 + n - 1. Let a be f(5). Suppose -u + 7*x - a*x = -43, -5*x = u - 11. What is the tens digit of u?",3,n - n - n - n - n - n - n - n - n - n - n - n -
+"Let d(w) = -w**2 - 21*w - 12. Suppose 3*z - 163 = -z - 3*x, 3*x - 77 = -2*z. Suppose 17 = -5*s - z. What is the tens digit of d(s)?",9,d(w) = -w**2 - z - z - z - z - z - z d(w) - z -
+"Let m = 39 - 33. Suppose -c = 2*s - 60, 0 = 3*c - 3*s - m - 201. Let b = -36 + c. What is the units digit of b?",0,b = -36 + c. -c = -36 + c. -c = -c - m. -c - m. -c - m
+Let p = 4699 + 737. What is the units digit of p?,6,p = 4699 + 737. Find p = 4699 + 737. 737 + 737. 737 + 737. 737 + 737. 737 + 737. p p
+Let k(i) = 4*i**2 + i - 5. Suppose 0 = u - 6 - 10. Suppose 0 = -3*j - j + u. What is the tens digit of k(j)?,6,k(i) = k(i) - k(i) - k(i) - k(i) - k(i) - k k(i
+Let b = 73 + -38. Suppose 5*t - b = -0*t. Let h(o) = 3*o**2 - 7*o - 17. What is the tens digit of h(t)?,8,h(t) = -0*t. - - - - - - - - - - - - - - - - - -
+"Suppose -19*o + 15*o = -3*c - 25468, 0 = o + 4*c - 6367. What is the thousands digit of o?",6,0 - 6367. Solve: 0 - 6367 - 0 - 0 - 0 - 0 - 0 - 0 - 0 -

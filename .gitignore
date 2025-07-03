@@ -4,4 +4,25 @@
 pixi.lock
 pixi.toml
 *.egg-info
+*.txt
+!model_summary.txt
+!requirements.txt
+keras-hub/
+math/
+builds/
+.ipynb_checkpoints/
+*.joblib
 
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
