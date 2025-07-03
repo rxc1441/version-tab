@@ -1,6 +1,6 @@
 # version-tab
 
-A research-based and novel deep learning repository focused on mathematical problem-h I'll solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
+A research-based and novel deep learning repository focused on mathematical problem solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
 Based on the original work of Saxton et. al, 2019, this project explores ESA/SA vectorizers, T5-based inference, end-to-end analysis, and novel deep learning research and development. It is an extension of version-sdk, a custom software development kit for data science-based workflows and other domains.
 
