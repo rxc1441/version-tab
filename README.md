@@ -1,6 +1,6 @@
 # version-tab
 [![CodeQL Advanced](https://github.com/rcghpge/version-tab/actions/workflows/codeql.yml/badge.svg)](https://github.com/rcghpge/version-tab/actions/workflows/codeql.yml)
-A research-driven deep learning repository focused on mathematical problem solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
+\nA research-driven deep learning repository focused on mathematical problem solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
 Based on the original work of Saxton et al., 2019, this project explores ESA/SA vectorizers, T5-based inference, end-to-end analysis, and advanced deep learning research. It is an extension of `version-sdk`, a custom software development kit for data science workflows and other domains.
 
