@@ -39,8 +39,8 @@ curl -sSf https://pixi.sh/install.sh | bash
 # Initialize Pixi (creates pixi.toml and pixi.lock)
 pixi init
 
-# Install dependencies from requirements.txt
-pixi add --pip -r requirements.txt
+# Install dependencies from pixi.toml
+pixi install
 
 # Enter the Pixi environment
 pixi shell
