@@ -1,68 +1,61 @@
 # version-tab
 
-A research-based and novel deep learning repository focused on mathematical problem solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
+A research-driven deep learning repository focused on mathematical problem solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
-Based on the original work of Saxton et. al, 2019, this project explores ESA/SA vectorizers, T5-based inference, end-to-end analysis, and novel deep learning research and development. It is an extension of version-sdk, a custom software development kit for data science-based workflows and other domains.
+Based on the original work of Saxton et al., 2019, this project explores ESA/SA vectorizers, T5-based inference, end-to-end analysis, and advanced deep learning research. It extends `version-sdk`, a custom software development kit for data science workflows and other domains.
 
-Research Paper: [Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX)
+**Research Paper:** [Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/pdf?id=H1gR5iR5FX)
 
-Mathematics Dataset: 
+**Mathematics Datasets:**
 - [Google DeepMind](https://github.com/google-deepmind/mathematics_dataset)
 - [Hugging Face](https://huggingface.co/datasets/deepmind/math_dataset)
 
 ---
 
-## 📁 **Project Structure**
+## 📁 Project Structure
 
 ```
 version-tab/
-├── docs/           # Static HTML reports, and plots
-├── models/         # basemodel and test run on other models.
-├── notebooks/      # Jupyter notebooks for exploratory workflows
+├── docs/           # Static HTML reports, plots, and metrics
+├── models/         # Basemodel and other model runs
+├── notebooks/      # Jupyter notebooks for exploratory analysis
 ├── predictions/    # Saved prediction outputs
 ├── requirements.txt
-├── __init__.py
+├── pixi.toml
+├── pixi.lock
 └── README.md
 ```
 
-The `math/` dataset and `keras-hub/` modules are not included in the repository. You will need to download or prepare these directories locally.
-
 ---
 
-## ⚡ **Setup**
-
-> 💡 Only `requirements.txt` is pushed to remote. You are not pushing `pixi.toml` or `pixi.lock`.
+## ⚡ Setup
 
 ```bash
 # Install Pixi if not already installed
 curl -sSf https://pixi.sh/install.sh | bash
 
-# Initialize Pixi project (creates pixi.toml)
+# Initialize Pixi (creates pixi.toml and pixi.lock)
 pixi init
 
 # Install dependencies from requirements.txt
 pixi add --pip -r requirements.txt
 
-# Enter the Pixi environment shell
+# Enter the Pixi environment
 pixi shell
 ```
 
 ---
 
-## 🚀 **Quick Start**
+## 🚀 Quick Start
 
-### ✅ Option 1: Using `pixi shell`
-
-Once inside the shell, you can run commands as usual:
+### Option 1: Using `pixi shell`
 
 ```bash
 python builds/model.py
 jupyter lab
 ```
 
-### ✅ Option 2: Without using `pixi shell`
-
-If you prefer not to enter the shell, prefix each command:
+### Option 2: Without entering the shell
 
 ```bash
 pixi run python builds/model.py
@@ -71,42 +64,37 @@ pixi run jupyter lab
 
 ---
 
-## 📥 **Prepare data and modules**
+## 📊 Running & Viewing Results
 
-- Download or create the `math/` dataset locally (e.g., `train-medium/`, `interpolate/`, `extrapolate/`, etc.).
-- Download or copy any necessary custom modules (such as `keras-hub/`).
+1️⃣ Add your data in `math/` subdirectories.
 
----
-
-## 📊 **Running and Viewing Results**
-
-1️⃣ **Add your data**  
-Place `.txt` math problem files into your local `math/` subdirectories.
-
-2️⃣ **Run the prototype or models**
+2️⃣ Run:
 
 ```bash
 python builds/model.py
 ```
 
 - Generates predictions
-- Outputs metrics (accuracy, F1, symbolic equivalence)
+- Outputs metrics (accuracy, F1 score, symbolic equivalence)
 - Saves CSV results to `predictions/`
 
-
-4️⃣ **Check model summary**
-
-See `models/model_summary.txt` of the basemodel.
+3️⃣ Check the model summary in `models/model_summary.txt`.
 
 ---
 
-## 🧪 **Notebooks**
+## 🧪 Notebooks
 
-Launch notebooks for exploratory workflows:
+Start Jupyter Lab:
 
 ```bash
 jupyter lab
 ```
 
-Then open `model.ipynb` or `prototype.ipynb` inside the `notebooks/` folder.
+Open `model.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for exploratory workflows.
 
+---
+
+## 🔗 Links
+
+- [Google DeepMind Math Dataset](https://github.com/google-deepmind/mathematics_dataset)
+- [Hugging Face Math Dataset](https://huggingface.co/datasets/deepmind/math_dataset)

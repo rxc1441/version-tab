@@ -1,0 +1,16 @@
+true_label,predicted_label,correct
+arithmetic,arithmetic,True
+probability,probability,True
+numbers,numbers,True
+arithmetic,numbers,False
+algebra,algebra,True
+arithmetic,arithmetic,True
+comparison,comparison,True
+comparison,numbers,False
+comparison,numbers,False
+arithmetic,arithmetic,True
+numbers,numbers,True
+arithmetic,numbers,False
+probability,probability,True
+measurement,measurement,True
+arithmetic,arithmetic,True

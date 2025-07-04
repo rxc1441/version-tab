@@ -1,8 +1,6 @@
 
 # pixi environments
 .pixi
-pixi.lock
-pixi.toml
 *.egg-info
 *.txt
 !model_summary.txt
