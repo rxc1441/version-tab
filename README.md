@@ -51,14 +51,14 @@ pixi shell
 ### Option 1: Using `pixi shell`
 
 ```bash
-python builds/basemodel.py
+python models/basemodel.py
 jupyter lab
 ```
 
 ### Option 2: Without entering the shell
 
 ```bash
-pixi run python builds/basemodel.py
+pixi run python models/basemodel.py
 pixi run jupyter lab
 ```
 
@@ -71,7 +71,7 @@ pixi run jupyter lab
 2️⃣ Run:
 
 ```bash
-python builds/basemodel.py
+python builds/basemodel.py or other models
 ```
 
 - Generates predictions
@@ -90,7 +90,7 @@ Start Jupyter Lab:
 jupyter lab
 ```
 
-Open `model.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for exploratory workflows.
+Open `basemodel.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for exploratory workflows.
 
 ---
 
