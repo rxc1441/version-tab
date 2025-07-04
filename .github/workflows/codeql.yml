@@ -32,7 +32,7 @@ jobs:
       uses: github/codeql-action/init@v3
       with:
         languages: ${{ matrix.language }}
-        build-mode: manual
+        build-mode: none
 
     # Manual build step — replace with your actual build commands if needed
     - if: matrix.language == 'cpp' || matrix.language == 'python' || matrix.language == 'javascript'
