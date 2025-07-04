@@ -1,85 +1,63 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>UTA Machine Learning</title>
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css"/>
-    <style>
-      body {
-        background-color: #0064B1; /* UTA blue */
-        color: white;
-        font-family: Arial, sans-serif;
-        text-align: center;
-        margin: 0;
-        padding: 0;
-      }
-      h1 {
-        color: #F58025; /* UTA orange */
-        margin-top: 30px;
-        font-size: 2.2em;
-      }
-      table.dataTable tbody tr {
-        background-color: white;
-        color: black;
-      }
-      a.button {
-        color: white;
-        font-weight: bold;
-        text-decoration: none;
-        background-color: #F58025;
-        padding: 10px 20px;
-        border-radius: 5px;
-        display: inline-block;
-        margin-top: 20px;
-        transition: background-color 0.3s, transform 0.2s;
-      }
-      a.button:hover {
-        background-color: #d0621c;
-        transform: scale(1.05);
-      }
-      footer {
-        margin-top: 40px;
-        font-size: 14px;
-      }
-      footer a {
-        color: #F58025;
-        text-decoration: none;
-      }
-      footer a:hover {
-        text-decoration: underline;
-      }
-    </style>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
-  </head>
-  <body>
-    <h1>Machine Learning @ UTA</h1>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>version-tab Demo — UT Arlington</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #0064b1; /* UTA blue */
+      color: #ffffff;
+      padding: 2rem 1rem;
+    }
+    h1 {
+      margin: 0.5rem 0;
+    }
+    p {
+      margin: 0.5rem 0;
+      font-size: 1.2rem;
+    }
+    a.button {
+      display: inline-block;
+      margin: 1rem;
+      padding: 0.8rem 1.5rem;
+      background-color: #ee6e00; /* UTA orange */
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background-color: #ff8000;
+    }
+    footer {
+      margin-top: 3rem;
+      padding: 1rem;
+      background-color: #e0e0e0;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>version-tab Demo</h1>
+    <p>UT Arlington Themed Deep Learning & Symbolic Reasoning Showcase</p>
+  </header>
 
-    <table id="predictions" class="display" style="width:90%; margin:auto;">
-      <thead>
-        <tr>
-          <th>Question</th>
-          <th>Prediction</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
+  <main>
+    <p>View demo model:</p>
+    <a class="button" href="prototype.html">View Prototype Notebook</a>
+    <a class="button" href="submission_model.html">View Submission Model</a>
+  </main>
 
-    <a class="button" href="mmlupro_overview.html">View Current NLP Research @ UTA</a>
-
-    <footer>
-      <p>&copy; <a href="https://youtu.be/dQw4w9WgXcQ?si=EQdIrn1Fo67qRcui">2025</a> Robert Cocker</p>
-    </footer>
-
-    <script>
-      $(document).ready(function () {
-        $.getJSON("predictions.json", function (data) {
-          data.forEach(item => {
-            $('#predictions tbody').append(`<tr><td>${item.question}</td><td>${item.prediction}</td></tr>`);
-          });
-          $('#predictions').DataTable();
-        });
-      });
-    </script>
-  </body>
+  <footer>
+    © 2025 University of Texas at Arlington · Data Science Research
+  </footer>
+</body>
 </html>
-

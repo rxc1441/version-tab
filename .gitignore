@@ -3,7 +3,7 @@
 .pixi
 *.egg-info
 *.txt
-!model_summary.txt
+!basemodel_summary.txt
 !requirements.txt
 keras-hub/
 math/
