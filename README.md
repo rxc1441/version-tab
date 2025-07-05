@@ -1,7 +1,6 @@
 # version-tab
 [![CodeQL Advanced](https://github.com/rcghpge/version-tab/actions/workflows/codeql.yml/badge.svg)](https://github.com/rcghpge/version-tab/actions/workflows/codeql.yml)
 [![Bandit](https://github.com/rcghpge/version-tab/actions/workflows/bandit.yml/badge.svg)](https://github.com/rcghpge/version-tab/actions/workflows/bandit.yml)
-[![Discord](https://img.shields.io/discord/1025943048573694086?logo=discord)](https://discord.gg/Ndd9WVH6)
 
 A research-driven deep learning repository focused on mathematical problem solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
