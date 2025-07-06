@@ -2,6 +2,7 @@
 [![Dependabot Updates](https://github.com/rcghpge/version-tab/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/rcghpge/version-tab/actions/workflows/dependabot/dependabot-updates)
 [![CodeQL Advanced](https://github.com/rcghpge/version-tab/actions/workflows/codeql.yml/badge.svg)](https://github.com/rcghpge/version-tab/actions/workflows/codeql.yml)
 [![Bandit](https://github.com/rcghpge/version-tab/actions/workflows/bandit.yml/badge.svg)](https://github.com/rcghpge/version-tab/actions/workflows/bandit.yml)
+[![pages-build-deployment](https://github.com/rcghpge/version-tab/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rcghpge/version-tab/actions/workflows/pages/pages-build-deployment)
 
 A research-driven deep learning repository focused on mathematical problem solving, symbolic reasoning, math-based vectorization, and large language model (LLM) development.
 
