@@ -105,7 +105,7 @@ Open `basemodel.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for e
 
 ---
 
-# 🛡️ Security Note
+## 🛡️ Security Note
 This repository is intended for research and open source collaborations and is not intended for production-grade use.
 
 Security and reproducibility improvements are important, welcome, and appreciated via PR's 
