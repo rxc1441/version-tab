@@ -102,3 +102,12 @@ Open `basemodel.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for e
 
 - [Google DeepMind Math Dataset](https://github.com/google-deepmind/mathematics_dataset)
 - [Hugging Face Math Dataset](https://huggingface.co/datasets/deepmind/math_dataset)
+
+---
+
+# 🛡️Security Note
+This repository is intended for research and open source collaborations and is not intended for production-grade use.
+
+Security and reproducibility improvements are important, welcome, and appreciated via PR's 
+
+---
