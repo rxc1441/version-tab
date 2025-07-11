@@ -16,11 +16,13 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 os.makedirs("../predictions", exist_ok=True)
 
 # ----------------------
-# Load small model for local test
+# Load t5 base model for local test
 # ----------------------
 model_name = "google/t5-v1_1-base"
-tokenizer = T5Tokenizer.from_pretrained(model_name, legacy=False)
-model = FlaxT5ForConditionalGeneration.from_pretrained(model_name)
+version = "b5fc947a416ea3cb079532cb3c2bbadeb7f800fc"
+
+tokenizer = T5Tokenizer.from_pretrained(model_name, revision=version legacy=False)
+model = FlaxT5ForConditionalGeneration.from_pretrained(model_name, revision=version)
 
 # ----------------------
 # Load Q&A pairs from a single file

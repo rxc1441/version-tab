@@ -19,8 +19,10 @@ os.makedirs("../predictions", exist_ok=True)
 # Load small model for local test
 # ----------------------
 model_name = "google/t5-v1_1-small"
-tokenizer = T5Tokenizer.from_pretrained(model_name, legacy=False)
-model = FlaxT5ForConditionalGeneration.from_pretrained(model_name)
+version = "8a88af75516269158a3aa488d1abdfd3d5e4ee49"
+
+tokenizer = T5Tokenizer.from_pretrained(model_name, revision=version, legacy=False)
+model = FlaxT5ForConditionalGeneration.from_pretrained(model_name, revision=version)
 
 # ----------------------
 # Load Q&A pairs from a single file

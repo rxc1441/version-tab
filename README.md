@@ -14,6 +14,7 @@ Based on the original work of Saxton et al., 2019, this project explores ESA/SA 
 - [Google DeepMind](https://github.com/google-deepmind/mathematics_dataset)
 - [Hugging Face](https://huggingface.co/datasets/deepmind/math_dataset)
 
+Initial benchmarks were considered but not implemented due to time constrained research and builds. They are provided under `data/` and `docs/`
 ---
 
 ## 📁 Project Structure

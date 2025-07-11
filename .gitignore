@@ -1,12 +1,11 @@
-
 # pixi environments
 .pixi
 *.egg-info
 *.txt
 !basemodel_summary.txt
-!requirements.txt
 keras-hub/
 math/
+mathwriting-2025/
 builds/
 .ipynb_checkpoints/
 *.joblib
@@ -24,3 +23,89 @@ build/
 *.log
 *.out
 *.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.joblib
+*.so
+*.pyd
+
+# Virtual environments
+.cache/
+.venv/
+venv/
+env/
+.pixi/
+.kaggle-env/
+.kaggle/
+.bak
+.pixi
+
+# dotenv
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Dataset downloads & outputs
+*.zip
+*.csv
+*.json
+*.tsv
+*.parquet
+*.h5
+*.npy
+*.html
+*.xlsx
+*.tar.gz
+*.out
+*.tmp
+*.log
+*.inkml
+*.jsonl
+
+# Assignments & project workflows
+MathWriting-human/
+mathwriting/
+mathwriting-2025/
+math_dataset/
+math/
+hwzips/
+dev/
+
+# Node / frontend
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.lock
+
+# VSCode, PyCharm
+.vscode/
+.idea/
+
+# GitHub
+*~
+*.h
+*.c
+*.cpp
+*.rs
+*.rlib
+*.mojo
+*.cu
+*.cuh
+*.pt
+*.pth
+.cache
+
+# Allow homework outputs
+!docs/*.html
+
+# Others
+*.egg-info
+
