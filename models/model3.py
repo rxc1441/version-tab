@@ -21,7 +21,7 @@ os.makedirs("../predictions", exist_ok=True)
 model_name = "google/t5-v1_1-large"
 version = "a98b0fcd0b8137ded40cdf0c0cf0ee884e7c9726"
 
-tokenizer = T5Tokenizer.from_pretrained(model_name, revision=version legacy=False)
+tokenizer = T5Tokenizer.from_pretrained(model_name, revision=version, legacy=False)
 model = FlaxT5ForConditionalGeneration.from_pretrained(model_name, revision=version)
 
 # ----------------------
