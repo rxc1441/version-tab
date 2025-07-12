@@ -22,14 +22,19 @@ Initial benchmarks were considered but not implemented due to time constrained r
 
 ```
 version-tab/
-├── docs/        
-├── models/         
-├── notebooks/      
-├── predictions/    
-├── requirements.txt
-├── pixi.toml
+├── CITATION.cff
+├── LICENSE
+├── README.md
+├── builds
+├── data
+├── docs
+├── keras-hub
+├── math
+├── models
+├── notebooks
 ├── pixi.lock
-└── README.md
+├── pixi.toml
+└── predictions
 ```
 
 ---
@@ -52,7 +57,7 @@ pixi shell
 
 ---
 
-## 🚀 Quick Start
+## 🚀Quick Start
 
 ### Option 1: Using `pixi shell`
 
@@ -70,7 +75,7 @@ pixi run jupyter lab
 
 ---
 
-## 📊 Running & Viewing Results
+## 📊Running & Viewing Results
 
 1️⃣ Add your data in `math/` subdirectories.
 
@@ -100,7 +105,7 @@ Open `basemodel.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for e
 
 ---
 
-## 🔗 Links
+## 🔗Links
 
 - [Google DeepMind Math Dataset](https://github.com/google-deepmind/mathematics_dataset)
 - [Hugging Face Math Dataset](https://huggingface.co/datasets/deepmind/math_dataset)
