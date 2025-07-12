@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository or its code, please cite it using the following metadata."
+title: "Version-Tab"
+authors:
+  - family-names: "Cocker"
+    given-names: "Robert"
+version: "0.1.0"
+date-released: "2025-06-30"
+url: "https://github.com/rcghpge/version-tab"
+abstract: "A modular and extensible framework for experimenting with tabular data, natural language processing, and computer vision tasks. Includes robust data pipelines, benchmarking, and integration with large language models to support research and production workflows."
+
