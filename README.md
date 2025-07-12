@@ -18,23 +18,23 @@ Initial benchmarks were considered but not implemented due to time constrained r
 
 ---
 
-## 📁 Project Structure
+## 📁Project Structure
 
 ```
 version-tab/
 ├── CITATION.cff
 ├── LICENSE
 ├── README.md
-├── builds
+├── .github
+├── .gitattributes
+├── .gitignore
 ├── data
 ├── docs
-├── keras-hub
-├── math
 ├── models
 ├── notebooks
-├── pixi.lock
+├── predictions
 ├── pixi.toml
-└── predictions
+└── pixi.lock
 ```
 
 ---
