@@ -114,17 +114,18 @@ Open `basemodel.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for e
 
 ## Citations & Acknowledgements
 
-If you found this repository helpful, please also consider citing the following works used or referenced in the development of version-tab:
+If you found this repository helpful, please also consider citing the following works:
 
-- Saxton et al., "Analysing Mathematical Reasoning Abilities of Neural Models", arXiv:1904.01557. https://arxiv.org/abs/1904.01557
-  
-- Gervais et al., "MathWriting: A Dataset for Handwritten Mathematical Expression Recognition", arXiv:2404.10690. https://arxiv.org/abs/2404.10690
-  
-- Sun et al., "OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization", arXiv:2403.06537. https://arxiv.org/abs/2403.06537
+- Saxton et al., *Analysing Mathematical Reasoning Abilities of Neural Models*, arXiv:1904.01557.  
+  https://arxiv.org/abs/1904.01557
 
+- Gervais et al., *MathWriting: A Dataset for Handwritten Mathematical Expression Recognition*, arXiv:2404.10690.  
+  https://arxiv.org/abs/2404.10690
 
+- Sun et al., *OMEGA: Can LLMs Reason Outside the Box in Math?*, arXiv:2403.06537.  
+  https://arxiv.org/abs/2403.06537
 
-Additional technical notes and supporting documentation can be found in the [`docs`](https://github.com/rcghpge/version-tab/tree/main/docs) directory.
+For more details, please see the [`docs`](https://github.com/rcghpge/version-tab/tree/main/docs) directory.
 
 ---
 
