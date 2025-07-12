@@ -123,6 +123,7 @@ If you found this repository helpful, please also consider citing the following 
 - Sun et al., "OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization", arXiv:2403.06537. https://arxiv.org/abs/2403.06537
 
 
+
 Additional technical notes and supporting documentation can be found in the [`docs`](https://github.com/rcghpge/version-tab/tree/main/docs) directory.
 
 ---
