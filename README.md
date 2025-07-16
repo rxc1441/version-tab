@@ -114,7 +114,7 @@ Open `basemodel.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for e
 
 ## Citations & Acknowledgements
 
-This repository builds on and is inspired by prior research in mathematical reasoning, handwriting recognition, and foundation models:
+If you found this repository helpful, please also consider citing the following works:
 
 - Saxton et al., *Analysing Mathematical Reasoning Abilities of Neural Models*, arXiv:1904.01557.  
   https://arxiv.org/abs/1904.01557
