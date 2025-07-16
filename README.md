@@ -114,7 +114,7 @@ Open `basemodel.ipynb` or `prototype.ipynb` inside the `notebooks/` folder for e
 
 ## Citations & Acknowledgements
 
-If you found this repository helpful, please also consider citing the following works:
+This repository builds on and is inspired by prior research in mathematical reasoning, handwriting recognition, and foundation models:
 
 - Saxton et al., *Analysing Mathematical Reasoning Abilities of Neural Models*, arXiv:1904.01557.  
   https://arxiv.org/abs/1904.01557
@@ -122,10 +122,15 @@ If you found this repository helpful, please also consider citing the following 
 - Gervais et al., *MathWriting: A Dataset for Handwritten Mathematical Expression Recognition*, arXiv:2404.10690.  
   https://arxiv.org/abs/2404.10690
 
-- Sun et al., *OMEGA: Can LLMs Reason Outside the Box in Math?*, arXiv:2403.06537.  
-  https://arxiv.org/abs/2403.06537
+- OpenAI, *Improving Mathematical Reasoning with Process Supervision*, 2022.  
+  https://openai.com/index/improving-mathematical-reasoning-with-process-supervision/
 
-For more details, please see the [`docs`](https://github.com/rcghpge/version-tab/tree/main/docs) directory.
+- Hendrycks et al., *Measuring Mathematical Problem Solving With the MATH Dataset*, arXiv:2103.03874.  
+  https://arxiv.org/abs/2103.03874
+
+For additional resources and implementation details, please see the [`docs`](https://github.com/rcghpge/version-cv/tree/main/docs) directory.
+
+Data sources, licensing information, and data usage guidelines can be found in the [`data`](https://github.com/rcghpge/version-cv/tree/main/data) directory.
 
 ---
 
