@@ -128,9 +128,9 @@ If you found this repository helpful, please also consider citing the following 
 - Hendrycks et al., *Measuring Mathematical Problem Solving With the MATH Dataset*, arXiv:2103.03874.  
   https://arxiv.org/abs/2103.03874
 
-For additional resources and implementation details, please see the [`docs`](https://github.com/rcghpge/version-cv/tree/main/docs) directory.
+For additional resources and implementation details, please see the [`docs`](https://github.com/rcghpge/version-tab/tree/main/docs) directory.
 
-Data sources, licensing information, and data usage guidelines can be found in the [`data`](https://github.com/rcghpge/version-cv/tree/main/data) directory.
+Data sources, licensing information, and data usage guidelines can be found in the [`data`](https://github.com/rcghpge/version-tab/tree/main/data) directory.
 
 ---
 
