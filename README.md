@@ -139,7 +139,7 @@ Data sources, licensing information, and data usage guidelines can be found in t
 ## 🛡️ Security Note
 This repository is intended for research and open source collaborations and is not intended for production-grade use.
 
-Security and reproducibility improvements are important, welcome, and appreciated via PR's 
+Security and reproducibility improvements are important and welcome via PR's 
 
 ---
 
