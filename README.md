@@ -41,6 +41,8 @@ version-tab/
 
 ## ⚡ Setup
 
+This project is built in part by [Pixi](https://pixi.sh/latest/) to manage environments and dependencies.
+
 ```bash
 # Install Pixi if not already installed
 curl -sSf https://pixi.sh/install.sh | bash
