@@ -121,6 +121,10 @@
 
 ## 📊 Visual Overview
 
+Click images to enlarge
+
+---
+
 ### MATH Model Results
 <table>
   <tr>
