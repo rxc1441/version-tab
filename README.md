@@ -84,7 +84,7 @@ pixi run jupyter lab
 2️⃣ Run:
 
 ```bash
-python builds/basemodel.py or other models
+python models/basemodel.py or other models
 ```
 
 - Generates predictions
