@@ -2,7 +2,6 @@
 .pixi
 *.egg-info
 *.txt
-!basemodel_summary.txt
 keras-hub/
 math/
 mathwriting-2025/
@@ -10,6 +9,9 @@ builds/
 .ipynb_checkpoints/
 *.joblib
 
+# Model outputs
+!regressionmodel_summary.txt
+!basemodel_summary.txt
 
 # Python
 __pycache__/
