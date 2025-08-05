@@ -161,10 +161,10 @@ Click images to enlarge
 
 ### Conclusions
 
-* Keras is a challenge for symbolic reasoning in ML/DL - It is barely understood today.
 * Keras performs well on tabular multiclass problems.
 * Feature engineering was key in Texas real estate market trend prediction.
 * Even simple linear regression achieved strong results on housing price prediction.
+* Mathematical symbolic reasoning in the ML/DL space remains a challenge. Tabular is only the tip of the iceberg
 
 ---
 
