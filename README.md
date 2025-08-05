@@ -12,13 +12,13 @@
 
   This project tackles three supervised learning tasks:
 
-1. Multiclass classification of symbolic math problems from the Google DeepMind MATH dataset.
-2. Semantic classification of real estate markets (hot, cold, stable) using Texas A\&M housing activity data.
-3. Regression modeling of median home values using the California housing dataset from Scikit-learn.
+  1. Multiclass classification of symbolic math problems from the Google DeepMind MATH dataset.
+  2. Semantic classification of real estate markets (hot, cold, stable) using Texas A\&M housing activity data.
+  3. Regression modeling of median home values using the California housing dataset from Scikit-learn.
 
 * **Approach**
 
-Vectorization (TF-IDF, ESA/SA), feature engineering (labels), and neural networks to handle classification tasks. For regression, the implementation is a standard linear regression model. Evaluation included accuracy, F1-score, and R^2 metrics.
+  Vectorization (TF-IDF, ESA/SA), feature engineering (labels), and neural networks to handle classification tasks. For regression, the implementation is a standard linear regression model. Evaluation included accuracy, F1-score, and R^2 metrics.
 
 * **Performance Summary**
 
