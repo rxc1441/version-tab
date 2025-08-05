@@ -124,7 +124,7 @@
 ### MATH Model Results
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelmathdata.png" alt="MATH Input" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelmathdata.png" alt="MATH Input" width="400" height="300"/></td>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelsaesaplot.png" alt="ESA/SA Plot" width="400"/></td>
   </tr>
 </table>
