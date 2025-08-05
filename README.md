@@ -255,7 +255,7 @@ verion-tab/
 
 #### Preprocessing Steps
 
-* TF-IDF vectorization, ESA joblib loading
+* TF-IDF vectorization, SA/ESA joblib loading
 * Standard scaling and label encoding via sklearn
 
 ---
