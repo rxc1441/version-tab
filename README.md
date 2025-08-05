@@ -119,6 +119,24 @@
 
 ---
 
+## 📊 Visual Overview
+
+### MATH Model Results
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelmathdata.png" alt="MATH Dataset Input Format" width="600"/>
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelsaesaplot.png" alt="SA/ESA Embedding Plot" width="600"/>
+
+### Texas Housing Classification Results
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationmodel.png" alt="Texas Housing Classification Model" width="600"/>
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationtraining.png" alt="Classification Training Curve" width="600"/>
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationtrainingaccuracy.png" alt="Classification Accuracy Curve" width="600"/>
+
+### California Housing Regression Results
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodel.png" alt="Regression Model Architecture" width="600"/>
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelpredictions.png" alt="Regression Predictions vs Actual" width="600"/>
+<img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2.png" alt="Regression R² Score Visualization" width="600"/>
+
+---
+
 ### Conclusions
 
 * Keras is a challenge for symbolic reasoning in ML/DL - It is barely understood today.
