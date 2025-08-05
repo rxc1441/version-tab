@@ -159,7 +159,7 @@ Click images to enlarge
 
 * Keras is a challenge for symbolic reasoning in ML/DL - It is barely understood today.
 * Keras performs well on tabular multiclass problems.
-* Feature engineering was key in A\&M label prediction.
+* Feature engineering was key in Texas real estate market trend prediction.
 * Even simple linear regression achieved strong results on housing price prediction.
 
 ---
