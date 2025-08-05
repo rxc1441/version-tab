@@ -118,7 +118,7 @@
 | Model inference for math  | Keras (TF-IDF)   | Interpolate | Accuracy | \~61%  |
 |                      |                  | Extrapolate | Accuracy | \~73%  |
 | Texas Housing Market Trends | Keras            | Test        | Accuracy | \~86%  |
-| California Median Housing Prices   | LinearRegression | Test        | R^2      | \~0.78% |
+| California Median Housing Prices   | LinearRegression | Test        | R^2      | \~0.78 (78%) |
 
 ---
 
