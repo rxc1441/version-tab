@@ -80,7 +80,7 @@
 
 * **Loss / Optimizer / Hyperparameters:**
 
-  * Classification: `sparse_categorical_crossentropy`, Adam, Dropout(0.2-0.3)
+  * Classification: `sparse_categorical_crossentropy`, Adam, Dropout (0.2-0.3)
   * Regression: closed-form least squares (MSE/R^2)
 
 ---
