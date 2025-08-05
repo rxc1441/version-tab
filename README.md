@@ -275,6 +275,8 @@ verion-tab/
 
 ## Citations
 
+Further citation of works cited are referenced at `data/` and `docs/`
+
 * Saxton et al., "Mathematical Reasoning Tasks", DeepMind (2019)
 * Hendrycks et al., "MATH: Measuring Mathematical Problem Solving", arXiv:2103.03874
 * Scikit-learn California Housing Dataset
