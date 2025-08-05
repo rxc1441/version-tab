@@ -9,6 +9,7 @@
 ## Overview
 
 * **Definition of Tasks / Challenge**
+
   This project tackles three supervised learning tasks:
 
 1. Multiclass classification of symbolic math problems from the Google DeepMind MATH dataset.
