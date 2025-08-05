@@ -220,7 +220,7 @@ verion-tab/
 ├── docs/                        # HTML documentation and dataset explorer
 ├── models/
 │   ├── basemodel.py             # MATH classification model
-│   ├── classificationmodel.py  # Texas A&M semantic market classifier
+│   ├── classificationmodel.py  # Texas Housing semantic market classifier
 │   ├── regressionmodel.py      # California housing price regression model
 ├── notebooks/                  # Jupyter notebooks for each modeling task
 ├── predictions/                # Final output submissions and test predictions
