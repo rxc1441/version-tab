@@ -84,7 +84,7 @@
 
 ### Training
 
-* **How We Trained:**
+* **How Models Were Trained:**
 
   * Keras models run on CPU (10–20 epochs)
   * Regression trained instantly via Scikit-learn
@@ -102,6 +102,7 @@
 * **Challenges:**
 
   * ESA/SA vectorizer preprocessing
+  * No set standards in these spaces
   * Label mismatch handling for unseen extrapolation classes
   * Explainable AI - XAI
 
