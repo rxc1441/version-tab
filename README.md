@@ -110,10 +110,10 @@
 
 | Task                 | Model            | Dataset     | Metric   | Score  |
 | -------------------- | ---------------- | ----------- | -------- | ------ |
-| MATH Classification  | Keras (TF-IDF)   | Interpolate | Accuracy | \~86%  |
+| Model inference for math  | Keras (TF-IDF)   | Interpolate | Accuracy | \~86%  |
 |                      |                  | Extrapolate | Accuracy | \~78%  |
-| Texas Market Labeling | Keras            | Test        | Accuracy | \~90%  |
-| Calfornia Housing Regression   | LinearRegression | Test        | R^2      | \~0.78 |
+| Texas Housing Market Trends | Keras            | Test        | Accuracy | \~90%  |
+| California Median Housing Prices   | LinearRegression | Test        | R^2      | \~0.78% |
 
 ---
 
