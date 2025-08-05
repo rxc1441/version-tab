@@ -170,7 +170,7 @@ Click images to enlarge
 * Integrate multi-modal housing datasets (e.g., geospatial)
 * Apply SHAP/XAI to interpret classification boundaries
 * XAI - Explainable AI
-* Security in ML/DL
+* Secure ML/DL systems
 
 ---
 
