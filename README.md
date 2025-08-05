@@ -277,6 +277,7 @@ verion-tab/
 
 Further citation of works cited are referenced at `data/` and `docs/`
 
+* Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683). *Journal of Machine Learning Research, 21(140), 1–67*.
 * Saxton et al., "Mathematical Reasoning Tasks", DeepMind (2019)
 * Hendrycks et al., "MATH: Measuring Mathematical Problem Solving", arXiv:2103.03874
 * Scikit-learn California Housing Dataset
