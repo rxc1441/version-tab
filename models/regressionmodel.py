@@ -111,10 +111,10 @@ plt.show()
 # In[9]:
 
 # Save model summary
-with open("model_summary_regression.txt", "w") as f:
+with open("regressionmodel_summary.txt", "w") as f:
     regressionmodel.summary(print_fn=lambda line: f.write(line + "\n"))
 
-print("Model summary saved to model_summary_regression.txt")
+print("Model summary saved to regressionmodel_summary.txt")
 
 # In[10]:
 

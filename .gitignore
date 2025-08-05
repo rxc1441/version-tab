@@ -17,25 +17,18 @@ builds/
 __pycache__/
 *.py[cod]
 *.egg
-*.egg-info/
-dist/
-build/
-
-# Logs and outputs
-*.log
-*.out
-*.tmp
-
-# Python
-__pycache__/
-*.py[cod]
-*.egg
+*.egg-info
 *.egg-info/
 dist/
 build/
 *.joblib
 *.so
 *.pyd
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
 
 # Virtual environments
 .cache/
@@ -108,6 +101,4 @@ yarn-error.log
 # Allow homework outputs
 !docs/*.html
 
-# Others
-*.egg-info
 
