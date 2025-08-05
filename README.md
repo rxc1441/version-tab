@@ -1,7 +1,8 @@
 # version-tab
 
 * **One Sentence Summary**
-  A comparative deep learning and classical ML repository for modeling symbolic math reasoning, market labeling, and housing price prediction using real-world and synthetic datasets.
+
+  A comparative deep learning and classical ML repository for modeling symbolic math reasoning, housing market trends, and housing price prediction using real-world and synthetic datasets.
 
 ---
 
