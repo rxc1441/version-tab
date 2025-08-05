@@ -22,9 +22,9 @@
 
 * **Performance Summary**
 
-- MATH multiclass classification: \~86% interpolate accuracy
-- Texas housing market trend classification: \~90% accuracy
-- California median housing pices regression: R^2 \~0.78
+  - MATH multiclass classification: \~86% interpolate accuracy
+  - Texas housing market trend classification: \~90% accuracy
+  - California median housing pices regression: R^2 \~0.78
 
 ---
 
