@@ -34,7 +34,7 @@
 
   * MATH: symbolic text inputs (.txt), output: math concept labels
   * Texas Housing Data: tabular CSV, input features: inventory + sales %, output: semantic label
-  * Califonira Housing Data: numeric tabular, input features (8), output: continuous price
+  * California Housing Data: numeric tabular, input features (8), output: continuous price
 
 * **Size:**
 
