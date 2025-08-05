@@ -50,6 +50,8 @@
   * Texas Housing Data: 85/15 train/test 
   * California Housing Data: 90/10 train/test
 
+  For all datasets considered for this project please see `data/` directory for more information
+  
 #### Preprocessing / Cleanup
 
 * Applied TF-IDF, ESA/SA vectorizers (MATH)
