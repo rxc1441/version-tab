@@ -66,6 +66,8 @@
 * Training curves accuracy vs val accuracy, training loss vs val loss
 * Actual vs. predicted scatter plots (regression)
 
+  See Visual Overview section below
+
 ### Problem Formulation
 
 * **Input / Output:**
