@@ -17,7 +17,7 @@
 
 * **Approach**
 
-Vectorization (TF-IDF, ESA/SA), feature engineering (labels), and neural networks to handle classification tasks. For regression, we employed a standard linear regression model. Evaluation included accuracy, F1-score, and R^2 metrics.
+Vectorization (TF-IDF, ESA/SA), feature engineering (labels), and neural networks to handle classification tasks. For regression, the implementation is a standard linear regression model. Evaluation included accuracy, F1-score, and R^2 metrics.
 
 * **Performance Summary**
 
@@ -92,7 +92,8 @@ Vectorization (TF-IDF, ESA/SA), feature engineering (labels), and neural network
   * Regression trained instantly via Scikit-learn
 
 * **Duration:**
-
+  
+  * Base Model took a bit because of vectorizing the data
   * Classification: \~30s
   * Regression: \~1s
 
