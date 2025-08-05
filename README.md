@@ -213,17 +213,24 @@ jupyter lab
 ### Overview of Files in Repository
 
 ```bash
-├── data/                        # Tabular and vector data (data is not published)
-├── docs/                        # Visual assets, figures
+verion-tab/
+├── .github/workflows/           # CI/CD workflows (e.g., CodeQL)
+├── assets/                      # GUI rendering images
+├── data/                        # Tabular and symbolic datasets (incl. MATH)
+├── docs/                        # HTML documentation and dataset explorer
 ├── models/
-│   ├── basemodel.py             # MATH classifier
-│   ├── classificationmodel.py  # 3-class semantic model
-│   ├── regressionmodel.py      # Median Housing Price Regression model
-├── notebooks/
-│   ├── *.ipynb                  # Exploratory & training notebooks
-├── pixi.toml / pixi.lock       # Environment config
-├── model_summary.txt           # Output summary logs
-└── .github/                     # CI & workflows
+│   ├── basemodel.py             # MATH classification model
+│   ├── classificationmodel.py  # Texas A&M semantic market classifier
+│   ├── regressionmodel.py      # California housing price regression model
+├── notebooks/                  # Jupyter notebooks for each modeling task
+├── predictions/                # Final output submissions and test predictions
+├── .gitattributes              # Git settings for text encoding / line endings
+├── .gitignore                  # Ignored files for Git tracking
+├── CITATION.cff               # Citation metadata for academic referencing
+├── LICENSE                     # Open source license (MIT)
+├── README.md                   # Project overview and documentation (this file)
+├── pixi.lock                   # Lockfile for Pixi environment reproducibility
+├── pixi.toml                   # Pixi environment specification
 ```
 
 ---
