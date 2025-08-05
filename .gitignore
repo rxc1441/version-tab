@@ -35,14 +35,12 @@ build/
 .venv/
 venv/
 env/
+.env
 .pixi/
 .kaggle-env/
 .kaggle/
 .bak
 .pixi
-
-# dotenv
-.env
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
@@ -63,6 +61,7 @@ env/
 *.log
 *.inkml
 *.jsonl
+*.bak
 
 # Assignments & project workflows
 MathWriting-human/

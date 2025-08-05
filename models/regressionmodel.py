@@ -74,9 +74,13 @@ history = regressionmodel.fit(
 
 # In[6]:
 
-# Evaluate
+# Evaluate regression model
+y_pred = regressionmodel.predict(X_test)
 loss, mae = regressionmodel.evaluate(X_test, y_test, verbose=0)
-print(f"\nTest MSE: {loss:.4f}")
+r2 = r2_score(y_test, y_pred)
+
+print(f"\nR^2 Score: {r2:.4f}")
+print(f"Test MSE: {loss:.4f}")
 print(f"Test MAE: {mae:.4f}")
 
 # In[7]:
