@@ -16,7 +16,8 @@
 3. Regression modeling of median home values using the California housing dataset from Scikit-learn.
 
 * **Approach**
-  Vectorization (TF-IDF, ESA/SA), feature engineering (labels), and neural networks to handle classification tasks. For regression, we employed a standard linear regression model. Evaluation included accuracy, F1-score, and R^2 metrics.
+
+Vectorization (TF-IDF, ESA/SA), feature engineering (labels), and neural networks to handle classification tasks. For regression, we employed a standard linear regression model. Evaluation included accuracy, F1-score, and R^2 metrics.
 
 * **Performance Summary**
 
