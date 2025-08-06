@@ -180,12 +180,11 @@ Click images to enlarge
 
 ## How to Reproduce Results
 
-### Requirements
+### Installation Instructions
 
 ```bash
-curl -sSf https://pixi.sh/install.sh | bash
-pixi init
-pixi install
+git clone https://github.com/rcghpge/version-tab.git
+cd version-tab
 pixi shell
 ```
 
