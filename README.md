@@ -47,7 +47,7 @@
 * **Splits:**
 
   * MATH: train/interpolate/extrapolate
-  * Texas Housing Data: 85/15 train/test 
+  * Texas Housing Data: 68/20/12 train/test/validate 
   * California Housing Data: 72/20/8 train/test/validate
 
   For all datasets considered for this project please see `data/` directory for more information
