@@ -132,7 +132,7 @@ Click images to enlarge
 
 ---
 
-### Math Multiclassification Results
+### Math Multiclassification Model Results
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelsaesaplot.png" alt="ESA/SA Plot" width="400"/></td>
@@ -141,7 +141,7 @@ Click images to enlarge
   </tr>
 </table>
 
-### Texas Housing Classification Results
+### Texas Housing Classification Model Results
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationtraining.png" alt="Training Curve" width="400"/></td>
@@ -150,7 +150,7 @@ Click images to enlarge
   </tr>
 </table>
 
-### California Housing Regression Results
+### California Housing Regression Model Results
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2trainval.png" alt="Regression Model r2" width="400"/></td>
