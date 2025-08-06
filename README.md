@@ -46,7 +46,7 @@
 
 * **Splits (%):**
 
-  * MATH: ~35.4/~44.1 (test A)/~11.8 (test B)/~8.7 train/interpolate (test A)/extrapolate (test B)/validate
+  * MATH: ~35.4/~44.1/~11.8/~8.7 train/interpolate/extrapolate/validate (interpolate and extrapolate 2 separate tests)
   * Texas Housing Data: 68/20/12 train/test/validate 
   * California Housing Data: 72/20/8 train/test/validate
 
