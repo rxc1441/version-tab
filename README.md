@@ -164,7 +164,7 @@ Click images to enlarge
 
 ### Conclusions
 
-* Keras performs well on tabular multiclass problems.
+* Keras shows promising results for tabular multiclass problems.
 * Feature engineering was key in Texas real estate market trend prediction.
 * Even simple linear regression achieved strong results on housing price prediction.
 * Mathematical symbolic reasoning in the ML/DL space remains a challenge. Tabular is only the tip of the iceberg
