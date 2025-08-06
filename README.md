@@ -34,19 +34,19 @@
 
 * **Type:**
 
-  * MATH: symbolic text inputs (.txt), output: math concept labels
+  * MATH: symbolic text inputs (.txt), output: math concept labels (`train-medium` utilized for builds)
   * Texas Housing Data: tabular CSV, input features: inventory + sales %, output: semantic label
   * California Housing Data: numeric tabular, input features (8), output: continuous price
 
 * **Size:**
 
-  * MATH: \~1,000+ samples per concept type
+  * MATH: \~10M samples total (train/test/validate)
   * Texas Housing Data: \~35 samples
   * California Housing Data: \~21,000 samples
 
-* **Splits:**
+* **Splits (%):**
 
-  * MATH: train/interpolate/extrapolate
+  * MATH: ~35.4/~44.1 (test A)/~11.8 (test B)/~8.7 train/interpolate (test A)/extrapolate (test B)/validate
   * Texas Housing Data: 68/20/12 train/test/validate 
   * California Housing Data: 72/20/8 train/test/validate
 
