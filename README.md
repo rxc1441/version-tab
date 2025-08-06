@@ -132,7 +132,7 @@ Click images to enlarge
 
 ---
 
-### MATH Model Results
+### Math Multiclassification Results
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelmathdata.png" alt="MATH Input" width="400" height="300"/></td>
