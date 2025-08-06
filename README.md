@@ -153,8 +153,10 @@ Click images to enlarge
 ### California Housing Regression Results
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodel.png" alt="Regression Model" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2.png" alt="R2 Score" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2trainval.png" alt="Regression Model r2" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2mse.png" alt="R2 Score" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2mae.png" alt="R2 Score" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2scatterplot.png" alt="R2 Score" width="400"/></td>
   </tr>
 </table>
 
