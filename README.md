@@ -24,7 +24,7 @@
 
   - MATH multiclass classification: \~61% interpolate accuracy, ~73% extrapolate accuracy
   - Texas housing market trend classification: \~86% accuracy
-  - California median housing pices regression: R^2 \~0.78
+  - California median housing pices regression: R^2 \~0.80 (80%)
 
 ---
 
@@ -48,7 +48,7 @@
 
   * MATH: train/interpolate/extrapolate
   * Texas Housing Data: 85/15 train/test 
-  * California Housing Data: 90/10 train/test
+  * California Housing Data: 72/20/8 train/test/validate
 
   For all datasets considered for this project please see `data/` directory for more information
   
@@ -122,7 +122,7 @@
 | Model inference for math  | Keras (TF-IDF)   | Interpolate | Accuracy | \~61%  |
 |                      |                  | Extrapolate | Accuracy | \~73%  |
 | Texas Housing Market Trends | Keras            | Test        | Accuracy | \~86%  |
-| California Median Housing Prices   | LinearRegression | Test        | R^2      | \~0.78 (78%) |
+| California Median Housing Prices   | LinearRegression | Test        | R^2      | \~0.79 (80%) |
 
 ---
 
