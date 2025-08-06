@@ -135,17 +135,18 @@ Click images to enlarge
 ### Math Multiclassification Results
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelmathdata.png" alt="MATH Input" width="400" height="300"/></td>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelsaesaplot.png" alt="ESA/SA Plot" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelinterpolateconfusionmatrix.png" alt="Interpolate Plot" width="400" height="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/basemodelextrapolateconfusionmatrix.png" alt="Extrapolate Plot" width="400" height="300"/></td>
   </tr>
 </table>
 
 ### Texas Housing Classification Results
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationmodel.png" alt="Classification Model" width="400"/></td>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationtraining.png" alt="Training Curve" width="400"/></td>
     <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationtrainingaccuracy.png" alt="Accuracy Curve" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/classificationmodel.png" alt="Classification Model" width="400"/></td>
   </tr>
 </table>
 
