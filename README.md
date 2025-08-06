@@ -197,7 +197,7 @@ python models/classificationmodel.py
 # Median Housing Price Regression Model
 python models/regressionmodel.py
 
-# MATH Classifier
+# Math Classifier
 python models/basemodel.py
 ```
 
