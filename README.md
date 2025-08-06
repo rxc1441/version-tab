@@ -153,10 +153,10 @@ Click images to enlarge
 ### California Housing Regression Model Results
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2trainval.png" alt="Regression Model r2" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelmse.png" alt="R2 Score" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelmae.png" alt="R2 Score" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2scatterplot.png" alt="R2 Score" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2trainval.png" alt="Regression Model r2" width="400" height="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelmse.png" alt="R2 Score" width="400" height="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelmae.png" alt="R2 Score" width="400" height="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/rcghpge/version-tab/main/assets/regressionmodelr2scatterplot.png" alt="R2 Score" width="400" height="300"/></td>
   </tr>
 </table>
 
