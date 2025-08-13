@@ -97,7 +97,7 @@ yarn-error.log
 *.pth
 .cache
 
-# Allow homework outputs
+# GH Outputs
 !docs/*.html
-
+!README.md.bak
 
